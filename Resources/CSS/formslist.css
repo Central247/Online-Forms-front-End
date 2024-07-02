@@ -1,0 +1,12 @@
+.container{
+    justify-content: center;
+}
+
+.card-body{
+   background-color: grey !important;
+   border-radius: 10px;
+}
+
+.row{
+    margin-top:1em;
+}
